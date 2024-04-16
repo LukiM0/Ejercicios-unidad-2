@@ -1,0 +1,12 @@
+﻿  Game.cpp
+C:\Users\pedro\Desktop\Unidad 2\Ejercicio 4\Box2dFirstApp\Src\Game.cpp(51,55): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\pedro\Desktop\Unidad 2\Ejercicio 4\Box2dFirstApp\Src\Game.cpp(56,56): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+  Box2dEmptyApp.vcxproj -> C:\Users\pedro\Desktop\Unidad 2\Ejercicio 4\Box2dFirstApp\Bin\Debug\Box2dEmptyApp.exe
